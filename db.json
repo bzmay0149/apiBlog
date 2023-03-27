@@ -1,21 +1,49 @@
 {
-    "fotografias": [{
-        "id": 1,
-        "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
-        "name": "May Torres",
-        "fecha": "22/03/2023",
-        "location": "Bilbao",
-        "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
-        "comentario": "bonito cielo al atardecer"
-
+  "fotografias": [
+    {
+      "id": 1,
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "May Torres",
+      "fecha": "22/03/2023",
+      "location": "Bilbao",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "bonito cielo al atardecer"
     },
- {
-        "id": 2,
-        "avatar": "https://randomuser.me/api/portraits/men/94.jpg",
-        "name": "Juan Baena",
-        "fecha":"22/03/2023",
-        "location": "Santander",
-        "foto": "https://descubresantander.es/wp-content/uploads/2021/03/segunda-playa-del-sardinero-desde-arriba-980x670.jpg",
-        "comentario": "la playa del sardinero"
-    }]
+    {
+      "id": 2,
+      "avatar": "https://randomuser.me/api/portraits/men/94.jpg",
+      "name": "Juan Baena",
+      "fecha": "22/03/2023",
+      "location": "Santander",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "la playa del sardinero"
+    },
+    {
+      "id": 3,
+      "avatar": "https://randomuser.me/api/portraits/women/94.jpg",
+      "name": "Juan Baena",
+      "fecha": "22/03/2023",
+      "location": "Santander",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "la playa del sardinero"
+    },
+    {
+      "id": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/24.jpg",
+      "name": "Juan Baena",
+      "fecha": "22/03/2023",
+      "location": "Santander",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "la playa del sardinero"
+    },
+    {
+      "id": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/48.jpg",
+      "name": "Alejandro",
+      "fecha": "22/03/2023",
+      "location": "Santander",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "la playa del sardinero"
+    }
+  ]
 }

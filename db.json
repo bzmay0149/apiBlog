@@ -7,7 +7,8 @@
       "fecha": "22/03/2023",
       "location": "Bilbao",
       "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
-      "comentario": "Bonito cielo al atardecer en la ría de Bilbao"
+      "comentario": "Bonito cielo al atardecer en la ría de Bilbao",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "fecha": "22/03/2023",
       "location": "Santander",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyf3qBvORNBeT5kDwEz1VgxyXIpscDGVGgA&usqp=CAU",
-      "comentario": "La playa del sardinero"
+      "comentario": "La playa del sardinero",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "fecha": "23/03/2023",
       "location": "Burgos",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQS6J-5DwWHcitb5b6d9PCxVexhw9lb3rUaQ&usqp=CAU",
-      "comentario": "Catedral de Burgos"
+      "comentario": "Catedral de Burgos",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
       "id": 4,
@@ -34,16 +37,18 @@
       "fecha": "20/03/2023",
       "location": "Madrid",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkL8cqX4XLliVFdx44J4I2RPVkBYOdL94Dw&usqp=CAU",
-      "comentario": "Anochecer con cielo rojo"
+      "comentario": "Anochecer con cielo rojo",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
       "id": 5,
-      "avatar": "https://randomuser.me/api/portraits/women/48.jpg",
+      "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
       "name": "Jone Guerrera",
       "fecha": "18/03/2023",
       "location": "Zaragoza",
       "foto": "https://images.squarespace-cdn.com/content/v1/5a86b05bcf81e0af04936cc7/1647973252387-U39JJMUIVW2HVE0Z7AAK/que-ver-en-zaragoza.jpg?format=1500w",
-      "comentario": "Bonito cielo"
+      "comentario": "Bonito cielo",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "fecha": "18/03/2023",
       "location": "Valencia",
       "foto": "https://www.floresyplantas.net/wp-content/uploads/ciudad-de-valencia-y-su-rio-turia.jpg",
-      "comentario": "Ciudad de las ciencias, día nublado"
+      "comentario": "Ciudad de las ciencias, día nublado",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
       "id": 7,
@@ -61,16 +67,28 @@
       "fecha": "18/03/2023",
       "location": "Sevilla",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_nmQ9AsMUSpUjQIHoG43o4NnOlPH-q9h5A&usqp=CAU",
-      "comentario": "Luna llena en el cielo de Sevilla"
+      "comentario": "Luna llena en el cielo de Sevilla",
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     },
     {
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "Otro nombre2",
+      "fecha": "22/03/2023",
+      "location": "Bilbao",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "Bonito cielo al atardecer en la ría de Bilbao",
       "id": 8,
-      "avatar": "https://randomuser.me/api/portraits/men/46.jpg",
-      "name": "Jonhatan Lololo",
-      "fecha": "18/03/2023",
-      "location": "Sevilla",
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_nmQ9AsMUSpUjQIHoG43o4NnOlPH-q9h5A&usqp=CAU",
-      "comentario": "Luna llena en el cielo de Sevilla"
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "Otro nombre2",
+      "fecha": "22/03/2023",
+      "location": "Bilbao",
+      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
+      "comentario": "Bonito cielo al atardecer en la ría de Bilbao",
+      "id": 9,
+      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
     }
   ]
 }

@@ -22,13 +22,12 @@
     },
     {
       "id": 3,
-      "avatar": "https://randomuser.me/api/portraits/women/94.jpg",
+      "avatar": "https://avatars.githubusercontent.com/u/118900582?v=4",
       "name": "Edurne",
       "fecha": "23/03/2023",
-      "location": "Burgos",
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQS6J-5DwWHcitb5b6d9PCxVexhw9lb3rUaQ&usqp=CAU",
-      "comentario": "Catedral de Burgos",
-      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
+      "location": "Irlanda",
+      "foto": "https://images.pexels.com/photos/2382681/pexels-photo-2382681.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "comentario": "Cliffs of Moher"
     },
     {
       "id": 4,
@@ -67,28 +66,7 @@
       "fecha": "18/03/2023",
       "location": "Sevilla",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_nmQ9AsMUSpUjQIHoG43o4NnOlPH-q9h5A&usqp=CAU",
-      "comentario": "Luna llena en el cielo de Sevilla",
-      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
-    },
-    {
-      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
-      "name": "Otro nombre2",
-      "fecha": "22/03/2023",
-      "location": "Bilbao",
-      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
-      "comentario": "Bonito cielo al atardecer en la ría de Bilbao",
-      "id": 8,
-      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
-    },
-    {
-      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
-      "name": "Otro nombre2",
-      "fecha": "22/03/2023",
-      "location": "Bilbao",
-      "foto": "https://s2.ppllstatics.com/elcorreo/www/multimedia/202202/11/media/MM-atardeceres-bilbao/3.JPG",
-      "comentario": "Bonito cielo al atardecer en la ría de Bilbao",
-      "id": 9,
-      "noticia": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, architecto aliquid culpa voluptates, nisi consequuntur optio impedit sit exercitationem repellat voluptas ea. Tenetur ratione praesentium necessitatibus provident nostrum voluptate voluptatum?"
+      "comentario": "Luna llena en el cielo de Sevilla"
     }
   
   ]

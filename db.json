@@ -67,6 +67,24 @@
       "location": "Sevilla",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_nmQ9AsMUSpUjQIHoG43o4NnOlPH-q9h5A&usqp=CAU",
       "comentario": "Luna llena en el cielo de Sevilla"
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/men/24.jpg",
+      "name": "Prueba",
+      "fecha": "2023-04-03",
+      "location": "BilbaoPenascal",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkL8cqX4XLliVFdx44J4I2RPVkBYOdL94Dw&usqp=CAU",
+      "comentario": "lijsijaiska",
+      "id": 8
+    },
+    {
+      "avatar": "https://randomuser.me/api/portraits/men/24.jpg",
+      "name": "Prueba",
+      "fecha": "2023-04-03",
+      "location": "BilbaoPenascal",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkL8cqX4XLliVFdx44J4I2RPVkBYOdL94Dw&usqp=CAU",
+      "comentario": "Post de prueba Lalalalalal",
+      "id": 9
     }
   ]
 }

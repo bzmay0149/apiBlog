@@ -1,0 +1,9 @@
+[
+    {
+      "path": "/db.json",
+      "origin": "https://weather-f5.netlify.app",
+      "method": ["GET", "POST", "PUT", "DELETE"],
+      "max_age": 3600
+    }
+  ]
+  
